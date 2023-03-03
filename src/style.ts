@@ -1,12 +1,12 @@
 const styles = {
     boxWidth: "xl:max-w-[1280px] w-full",
   
-    heading2: "font-poppins font-semibold xs:text-[48px] text-[40px] text-white xs:leading-[76.8px] leading-[66.8px] w-full",
-    paragraph: "font-mono font-normal text-blue text-[18px] leading-[30.8px]",
+    heading2: "font-balo font-semibold xs:text-[42px] text-[35px] text-white w-full",
+    paragraph: "font-balo text-sblue text-[18px] ",
   
     flexCenter: "flex justify-center items-center",
     flexStart: "flex justify-center items-start",
-    flexBet: "flex justify-between items-start",
+    flexBetween: "flex justify-between items-center",
   
     paddingX: "sm:px-16 px-6",
     paddingY: "sm:py-16 py-6",
